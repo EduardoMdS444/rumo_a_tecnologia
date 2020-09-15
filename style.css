@@ -1,0 +1,20 @@
+body	{
+		background: blue;
+	}
+
+.menu	{
+		width: 90%;
+		height: 15vh;
+		background: white;
+		border-radius: 15px;
+		margin: 15px auto;
+	}
+	
+.login	{
+		width: 50%;
+		height: 35vh;
+		background: gray;
+		border-radius: 15px;
+		margin: 25px auto;
+	
+	}
